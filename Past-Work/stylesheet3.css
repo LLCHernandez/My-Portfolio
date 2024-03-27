@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: linear-gradient(rgb(226, 123, 240), rgb(112, 235, 235));
+    height: 100vh;
+}
