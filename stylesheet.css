@@ -67,7 +67,7 @@ a {
 }
 
 .Old-Me {
-    background-color: rgb(15, 183, 212);
+    background-color: black;
     text-align: center;
     color: hsl(303, 58%, 62%);
 }
@@ -90,27 +90,27 @@ a {
     max-width: 75px;
 }
 
-.search-engine-optimization {
+.X1 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    background-color: #0072bb;
+    background-color: black;
     color: hsl(303, 58%, 62%);
 }
 
-.online-reputation-management {
+.X2 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    background-color: #0072bb;
+    background-color: black;
     color: hsl(303, 58%, 62%);
 }
 
-.social-media-marketing {
+.X3 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    background-color: #0072bb;
+    background-color: black;
     color: hsl(303, 58%, 62%);
 }
 
